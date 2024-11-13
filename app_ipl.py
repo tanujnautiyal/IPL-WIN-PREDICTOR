@@ -1,7 +1,6 @@
 import streamlit as st
 import pickle
 import pandas as pd
-import matplotlib.pyplot as plt
 
 teams = ['Sunrisers Hyderabad',
          'Mumbai Indians',
